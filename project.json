@@ -1,0 +1,41 @@
+{
+  "name": "QRCode_HKIA",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Generate_Sql_Queries": "[2.0.0]",
+    "ImageAdjustment.Activities": "[1.0.1]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "PDF_Activities": "[1.0.2]",
+    "ResizeImage": "[1.0.0]",
+    "UiPath.Database.Activities": "[1.2.6863.32528]",
+    "UiPath.Excel.Activities": "[2.6.0]",
+    "UiPath.Mail.Activities": "[1.5.0]",
+    "UiPath.PDF.Activities": "[2.0.0]",
+    "UiPath.Python.Activities": "[1.1.6863.33404]",
+    "UiPath.QRCodeLib.Activities": "[2.0.0.1]",
+    "UiPath.System.Activities": "[19.5.0]",
+    "UiPath.UIAutomation.Activities": "[19.5.0]",
+    "UiPathTeam.ImageActionAutoCroppActivities": "[1.0.0]",
+    "UiPathTeam.ImageActivities.Activities": "[1.0.0.200]",
+    "UiPathTeam.PDF.Extensions.Activities": "[2.3.0]",
+    "UiPathTeam.PDFFilter.Activities": "[1.0.0.14]"
+  },
+  "schemaVersion": "3.2",
+  "studioVersion": "19.5.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ]
+  },
+  "projectType": "Workflow",
+  "libraryOptions": {
+    "includeOriginalXaml": false,
+    "privateWorkflows": []
+  },
+  "webServices": []
+}
